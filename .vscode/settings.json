@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "__config": "c",
+        "deque": "c",
+        "memory_resource": "c",
+        "iterator": "c",
+        "locale": "c",
+        "vector": "c",
+        "*.tcc": "c",
+        "bitset": "c",
+        "functional": "c",
+        "format": "c",
+        "istream": "c",
+        "streambuf": "c",
+        "variant": "c"
+    }
+}
